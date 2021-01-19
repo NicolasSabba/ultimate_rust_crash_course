@@ -1,0 +1,7 @@
+[package]
+name = "variables"
+version = "2.3.4"
+authors = ["Nicolas Sabbatini <nicolas.sabbatini.95gmail.com>"]
+edition = "2018"
+
+[dependencies]
